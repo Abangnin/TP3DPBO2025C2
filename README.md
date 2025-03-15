@@ -46,7 +46,7 @@ a. Inheritance (Pewarisan)
 
 b. Composition (Komposisi)
 
-- Store memiliki daftar pakaian (inventory), yang berarti Store berisi banyak Clothing (ditunjukkan dengan panah wajik hitam).
+- Store memiliki daftar pakaian (inventory), yang berarti Store berisi banyak Clothing (ditunjukkan dengan panah bentuk kupat hitam).
 Jika Store dihapus, objek pakaian dalam daftar tidak ikut terhapus.
 
 ## Dokumentasi
