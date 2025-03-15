@@ -8,7 +8,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Dokumentasi
 ### Dokumentasi C++
-
-
+![SS-1](https://github.com/Abangnin/TP3DPBO2025C2/blob/main/C%2B%2B/Dokumentasi/cepepe.jpg)
 
 ### Dokumentasi Python
+![SS-1](https://github.com/Abangnin/TP3DPBO2025C2/blob/main/PYTHON/Dokumentasi/python.jpg)
