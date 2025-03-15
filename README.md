@@ -4,7 +4,7 @@
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Diagram
-![Image](https://github.com/user-attachments/assets/f1e6dd11-aa86-4136-8ff7-f9d6a5dd12e3)
+![Image](https://github.com/user-attachments/assets/8a6734ef-24fc-4de1-a06c-836e0a98e6a5)
 
 ## Penjelasan Kodingan / Program
 
